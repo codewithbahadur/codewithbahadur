@@ -56,20 +56,22 @@ public class BahadurAli extends Developer {
 
 ---
 
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codwithbahadur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=codwithbahadur&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewithbahadur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=codewithbahadur&theme=tokyonight&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codwithbahadur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithbahadur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=c9d1d9" />
 
 <br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codwithbahadur&theme=tokyonight" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithbahadur&theme=tokyonight" />
 
 </div>
 
